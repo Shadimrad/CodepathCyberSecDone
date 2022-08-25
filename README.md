@@ -1,1 +1,1 @@
-Demo is for codepath's Cyber security course tasks!
+This is for codepath's Cyber security course tasks!
